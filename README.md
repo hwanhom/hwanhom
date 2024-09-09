@@ -1,4 +1,10 @@
-## Hi there 👋
+# 😻 I have learned ...
+## Front-End:
+HTML, CSS, JS, Bootstrap
+## Back-End:
+Python, PHP
+## Database:
+MySQL, MongoDB
 
 <!--
 **hwanhom/hwanhom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
