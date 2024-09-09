@@ -2,7 +2,7 @@
 ## Front-End:
 HTML, CSS, JS, Bootstrap
 ## Back-End:
-Python, PHP
+Python, PHP, Laravel, RESTful API, Postman
 ## Database:
 MySQL, MongoDB
 
