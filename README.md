@@ -2,9 +2,11 @@
 ## Front-End:
 HTML, CSS, JS, Bootstrap
 ## Back-End:
-Python, PHP, Laravel, RESTful API, Postman
+Python, Flask, PHP, Laravel, RESTful API, Postman
 ## Database:
 MySQL, MongoDB
+## Other:
+Figma, Raspberry Pi
 
 <!--
 **hwanhom/hwanhom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
