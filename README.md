@@ -1,6 +1,6 @@
 # 😻 I have learned ...
 ## Front-End:
-HTML, CSS, JS, Bootstrap
+HTML, CSS, JS, Bootstrap, Tailwind
 ## Back-End:
 Python, Flask, PHP, Laravel, RESTful API, Postman
 ## Database:
