@@ -2,7 +2,7 @@
 ## Front-End:
 HTML, CSS, JS, Bootstrap, Tailwind
 ## Back-End:
-Python, Flask, PHP, Laravel, RESTful API, Postman
+Python, Flask, PHP, Laravel, RESTful API, Postman, Node.js
 ## Database:
 MySQL, MongoDB
 ## Other:
