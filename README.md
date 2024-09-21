@@ -13,7 +13,7 @@
 <p>- Laravel</p>
 <h2>Database:</h2>
 <h4>MySQL</h4>
-<h4>MongoDB</h4>
+<h4>MongoDB + Mongoose</h4>
 <h2>Other</h2>
 <h4>Figma</h4>
 <h4>Raspberry Pi</h4>
